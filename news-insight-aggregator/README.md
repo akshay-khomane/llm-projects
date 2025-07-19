@@ -13,6 +13,10 @@ A Streamlit-powered dashboard that scrapes the latest news on any topic, summari
 
 ---
 
+
+<img width="2520" height="261" alt="Screenshot 2025-07-19 at 8 40 07 PM" src="https://github.com/user-attachments/assets/73a57c40-1cd6-48a4-83cc-89432de591f6" />
+
+
 ## Getting Started
 
 ### 1. Clone the Repository
