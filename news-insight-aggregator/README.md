@@ -12,9 +12,12 @@ A Streamlit-powered dashboard that scrapes the latest news on any topic, summari
 - **Interactive Dashboard:** Browse, filter, and read summaries in a modern UI.
 
 ---
-
+## Demo
 
 <img width="2520" height="261" alt="Screenshot 2025-07-19 at 8 40 07 PM" src="https://github.com/user-attachments/assets/73a57c40-1cd6-48a4-83cc-89432de591f6" />
+
+<img width="2549" height="1258" alt="Screenshot 2025-07-19 at 8 42 23 PM" src="https://github.com/user-attachments/assets/aa40f5f7-ab56-4526-bd3c-17b57b17e009" />
+
 
 
 ## Getting Started
